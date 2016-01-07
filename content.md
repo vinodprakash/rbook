@@ -1,3 +1,3 @@
 # Content
 
-This book gives a description about rails-api provider and api-consumer
+1.  First lets discuss about rails-api provider and api-consumer
